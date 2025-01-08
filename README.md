@@ -1,12 +1,12 @@
 # Credit-Card-Fraud-Detection
 
-# Credit Card Fraud Detection
-
 This project uses machine learning techniques to detect fraudulent credit card transactions. The dataset is highly imbalanced, and various techniques like feature engineering, model optimization, and evaluation strategies are employed to achieve reliable performance, ensuring a practical approach to fraud detection.
 
 ## Objective
 
 To develop a machine-learning system that can effectively identify fraudulent credit card transactions. The project aims to address challenges posed by the dataset's imbalance and ensure accurate detection using advanced techniques.
+
+Project Code file: [Credit Card Fraud Detection Project](https://github.com/GOKUL-R18/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)  
 
 ## Dataset
 
