@@ -20,7 +20,7 @@ The dataset contains credit card transaction data from European cardholders in S
   - `Class`: 1 (fraud) and 0 (non-fraud)
 
 ### Source
-The dataset was collected during a research collaboration between Worldline and the Machine Learning Group of ULB. For more information, visit the [DefeatFraud project page]([https://www.researchgate.net/project/Fraud-detection-5](https://www.researchgate.net/project/Fraud-detection-5](https://www.researchgate.net/publication/319867396_Credit_Card_Fraud_Detection_A_Realistic_Modeling_and_a_Novel_Learning_Strategy)).
+The dataset was collected during a research collaboration between Worldline and the Machine Learning Group of ULB. For more information, visit the [Data Source](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)).
 
 ## Methodology
 
