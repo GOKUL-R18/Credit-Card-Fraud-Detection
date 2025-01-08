@@ -20,7 +20,7 @@ The dataset contains credit card transaction data from European cardholders in S
   - `Class`: 1 (fraud) and 0 (non-fraud)
 
 ### Source
-The dataset was collected during a research collaboration between Worldline and the Machine Learning Group of ULB. For more information, visit the [DefeatFraud project page](https://www.researchgate.net/project/Fraud-detection-5).
+The dataset was collected during a research collaboration between Worldline and the Machine Learning Group of ULB. For more information, visit the [DefeatFraud project page]([https://www.researchgate.net/project/Fraud-detection-5](https://www.researchgate.net/project/Fraud-detection-5](https://www.researchgate.net/publication/319867396_Credit_Card_Fraud_Detection_A_Realistic_Modeling_and_a_Novel_Learning_Strategy)).
 
 ## Methodology
 
@@ -94,7 +94,7 @@ The dataset was collected during a research collaboration between Worldline and 
 
 Please cite the following works if using this dataset or referring to this project:
 - Andrea Dal Pozzolo, et al. *Calibrating Probability with Undersampling for Unbalanced Classification.* CIDM, IEEE, 2015.
-- For additional references, please take a look at the dataset's [source documentation](https://www.researchgate.net/project/Fraud-detection-5).
+- For additional references, please take a look at the dataset's [source documentation]([https://www.researchgate.net/project/Fraud-detection-5](https://www.researchgate.net/publication/319867396_Credit_Card_Fraud_Detection_A_Realistic_Modeling_and_a_Novel_Learning_Strategy)).
 
 ## Future Enhancements
 - Integrate deep learning models for improved fraud detection.
